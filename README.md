@@ -1,2 +1,2 @@
-# React-peque-as-apps
+# React-pequenas-apps
 proyectos pequeños en react
